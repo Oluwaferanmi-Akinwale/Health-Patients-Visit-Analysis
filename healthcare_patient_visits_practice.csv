@@ -1,0 +1,501 @@
+PatientID,Gender,Age,City,VisitDate,DischargeDate,Department,Diagnosis,LengthOfStay,PaymentMethod,TreatmentCost,Outcome
+PAT-1000,Female,33,Ilorin,2023-03-10,2023-03-11,Pediatrics,Hypertension,1,HMO,60044.21,Recovered
+PAT-1001,Female,4,Abeokuta,2023-02-18,2023-02-25,Outpatient,Asthma,7,HMO,69581.14,Referred
+PAT-1002,Male,41,Ibadan,2023-04-28,2023-04-29,Maternity,Hypertension,1,Insurance,141176.63,Under Treatment
+PAT-1003,Male,55,Abeokuta,2023-12-18,2023-12-21,Inpatient,Ulcer,3,Cash,141179.22,Referred
+PAT-1004,Male,30,Ilorin,2023-04-30,2023-05-05,Emergency,Ulcer,5,Insurance,65346.09,Referred
+PAT-1005,Female,24,Ibadan,2023-11-25,2023-11-26,Emergency,Ulcer,1,HMO,146121.58,Referred
+PAT-1006,Female,39,Abeokuta,2023-08-05,2023-08-08,Pediatrics,Malaria,3,HMO,128726.75,Under Treatment
+PAT-1007,Male,54,Abuja,2023-05-05,2023-05-11,Maternity,Ulcer,6,HMO,117496.46,Referred
+PAT-1008,Male,57,Lagos,2023-07-11,2023-07-12,Maternity,Ulcer,1,Cash,58725.79,Referred
+PAT-1009,Female,6,Lagos,2023-01-16,2023-01-23,Inpatient,Malaria,7,HMO,37905.92,Recovered
+PAT-1010,Female,52,Abeokuta,2023-04-13,2023-04-16,Emergency,Typhoid,3,Cash,136914.48,Referred
+PAT-1011,Male,50,Abeokuta,2023-10-08,2023-10-08,Maternity,Ulcer,0,Insurance,66783.15,Recovered
+PAT-1012,Male,73,Abeokuta,2023-09-04,2023-09-09,Pediatrics,Typhoid,5,Cash,122935.97,Under Treatment
+PAT-1013,Female,69,Ilorin,2023-06-27,2023-06-27,Maternity,Typhoid,0,Insurance,121662.58,Referred
+PAT-1014,Female,12,Ibadan,2023-04-01,2023-04-03,Outpatient,Typhoid,2,Insurance,130871.32,Under Treatment
+PAT-1015,Male,32,Abeokuta,2023-01-08,2023-01-12,Inpatient,Malaria,4,Cash,47091.23,Recovered
+PAT-1016,Female,68,Abuja,2023-03-23,2023-03-27,Pediatrics,Diabetes,4,HMO,51690.26,Under Treatment
+PAT-1017,Female,40,Ilorin,2023-02-28,2023-02-28,Inpatient,Asthma,0,Cash,20770.45,Referred
+PAT-1018,Male,78,Lagos,2023-09-19,2023-09-22,Outpatient,Asthma,3,Cash,26236.95,Referred
+PAT-1019,Female,65,Abeokuta,2023-03-24,2023-03-31,Inpatient,Ulcer,7,HMO,120682.57,Referred
+PAT-1020,Male,68,Ilorin,2023-08-19,2023-08-22,Maternity,Ulcer,3,Cash,100674.46,Under Treatment
+PAT-1021,Male,17,Abuja,2023-01-31,2023-02-04,Outpatient,Diabetes,4,Insurance,50002.73,Under Treatment
+PAT-1022,Male,73,Ibadan,2023-03-23,2023-03-29,Maternity,Malaria,6,Insurance,90634.68,Recovered
+PAT-1023,Male,22,Ilorin,2023-10-19,2023-10-26,Inpatient,Ulcer,7,Cash,19358.68,Referred
+PAT-1024,Female,76,Ibadan,2023-12-12,2023-12-18,Pediatrics,Diabetes,6,Cash,78095.57,Recovered
+PAT-1025,Male,37,Lagos,2023-06-16,2023-06-22,Emergency,Hypertension,6,HMO,118491.55,Under Treatment
+PAT-1026,Male,35,Ilorin,2023-08-08,2023-08-11,Maternity,Ulcer,3,Cash,137594.47,Referred
+PAT-1027,Male,69,Ibadan,2023-10-01,2023-10-08,Outpatient,Diabetes,7,Insurance,29605.65,Referred
+PAT-1028,Female,43,Abuja,2023-04-20,2023-04-24,Emergency,Typhoid,4,Cash,21517.37,Recovered
+PAT-1029,Male,18,Abuja,2023-11-06,2023-11-13,Outpatient,Typhoid,7,Cash,15613.05,Recovered
+PAT-1030,Female,15,Ibadan,2023-03-06,2023-03-11,Maternity,Typhoid,5,HMO,37438.54,Recovered
+PAT-1031,Male,38,Ilorin,2023-05-17,2023-05-22,Emergency,Typhoid,5,Insurance,119117.13,Under Treatment
+PAT-1032,Male,12,Ibadan,2023-01-07,2023-01-07,Inpatient,Asthma,0,Insurance,118899.26,Referred
+PAT-1033,Male,15,Lagos,2023-08-04,2023-08-06,Inpatient,Asthma,2,HMO,127527.74,Under Treatment
+PAT-1034,Female,71,Abuja,2023-07-13,2023-07-17,Outpatient,Malaria,4,Insurance,99547.28,Recovered
+PAT-1035,Female,38,Ilorin,2023-01-14,2023-01-14,Pediatrics,Ulcer,0,Cash,62790.5,Recovered
+PAT-1036,Male,15,Abeokuta,2023-06-12,2023-06-19,Maternity,Malaria,7,HMO,72993.41,Under Treatment
+PAT-1037,Female,70,Lagos,2023-05-13,2023-05-15,Inpatient,Diabetes,2,Cash,16798.47,Under Treatment
+PAT-1038,Female,12,Lagos,2023-02-15,2023-02-22,Pediatrics,Ulcer,7,Cash,10952.58,Recovered
+PAT-1039,Male,32,Abeokuta,2023-06-12,2023-06-16,Maternity,Malaria,4,HMO,122097.32,Recovered
+PAT-1040,Female,3,Ibadan,2023-05-06,2023-05-09,Emergency,Diabetes,3,HMO,130795.63,Referred
+PAT-1041,Female,82,Abuja,2023-02-08,2023-02-08,Pediatrics,Hypertension,0,Cash,130084.1,Recovered
+PAT-1042,Male,10,Lagos,2023-02-21,2023-02-26,Inpatient,Typhoid,5,Insurance,124124.77,Under Treatment
+PAT-1043,Female,66,Lagos,2023-06-06,2023-06-07,Inpatient,Typhoid,1,Insurance,84096.48,Referred
+PAT-1044,Male,80,Lagos,2023-01-17,2023-01-22,Emergency,Ulcer,5,Cash,82936.39,Recovered
+PAT-1045,Female,33,Ilorin,2024-01-01,2024-01-04,Maternity,Hypertension,3,Cash,83499.76,Referred
+PAT-1046,Male,51,Abuja,2023-08-21,2023-08-21,Pediatrics,Malaria,0,Insurance,119994.73,Under Treatment
+PAT-1047,Female,8,Abeokuta,2023-10-20,2023-10-20,Inpatient,Ulcer,0,HMO,23143.71,Under Treatment
+PAT-1048,Male,73,Abeokuta,2023-05-22,2023-05-28,Outpatient,Asthma,6,Insurance,75469.52,Recovered
+PAT-1049,Female,65,Lagos,2023-09-28,2023-10-03,Inpatient,Ulcer,5,Cash,76785.48,Under Treatment
+PAT-1050,Female,44,Lagos,2023-04-26,2023-05-02,Outpatient,Typhoid,6,Insurance,115663.17,Referred
+PAT-1051,Female,66,Abuja,2023-07-08,2023-07-10,Emergency,Diabetes,2,HMO,58884.08,Referred
+PAT-1052,Male,77,Abeokuta,2023-12-26,2024-01-02,Maternity,Hypertension,7,HMO,59693.67,Recovered
+PAT-1053,Male,28,Ilorin,2023-05-09,2023-05-15,Pediatrics,Typhoid,6,HMO,97361.07,Under Treatment
+PAT-1054,Male,70,Abeokuta,2023-09-21,2023-09-23,Outpatient,Ulcer,2,Cash,96125.03,Under Treatment
+PAT-1055,Male,79,Ilorin,2023-02-12,2023-02-14,Inpatient,Ulcer,2,Cash,141299.58,Under Treatment
+PAT-1056,Male,42,Abeokuta,2023-07-23,2023-07-25,Pediatrics,Asthma,2,Insurance,22282.08,Referred
+PAT-1057,Female,16,Abuja,2023-10-01,2023-10-07,Inpatient,Ulcer,6,Cash,113688.64,Recovered
+PAT-1058,Male,75,Abeokuta,2023-04-08,2023-04-15,Inpatient,Hypertension,7,Cash,34957.84,Under Treatment
+PAT-1059,Female,35,Ilorin,2023-03-17,2023-03-20,Inpatient,Malaria,3,HMO,56758.54,Under Treatment
+PAT-1060,Male,74,Abuja,2023-03-04,2023-03-07,Outpatient,Asthma,3,Insurance,22120.37,Referred
+PAT-1061,Male,84,Abeokuta,2023-01-07,2023-01-11,Emergency,Diabetes,4,HMO,121794.44,Under Treatment
+PAT-1062,Male,68,Ibadan,2023-09-15,2023-09-20,Pediatrics,Malaria,5,HMO,70185.06,Under Treatment
+PAT-1063,Female,44,Ibadan,2023-10-04,2023-10-10,Pediatrics,Ulcer,6,Cash,34567.54,Recovered
+PAT-1064,Female,60,Abuja,2023-05-23,2023-05-26,Inpatient,Typhoid,3,Cash,94904.89,Referred
+PAT-1065,Female,68,Abeokuta,2023-04-12,2023-04-17,Pediatrics,Hypertension,5,Cash,53721.48,Referred
+PAT-1066,Male,64,Abuja,2023-10-27,2023-10-28,Outpatient,Ulcer,1,Cash,109586.23,Recovered
+PAT-1067,Male,35,Abeokuta,2023-11-21,2023-11-27,Outpatient,Diabetes,6,Cash,137335.68,Referred
+PAT-1068,Female,20,Ilorin,2023-07-30,2023-08-03,Inpatient,Asthma,4,Cash,78997.34,Under Treatment
+PAT-1069,Male,76,Abuja,2023-09-19,2023-09-20,Outpatient,Asthma,1,HMO,69160.11,Recovered
+PAT-1070,Female,12,Abeokuta,2023-09-17,2023-09-19,Emergency,Asthma,2,Insurance,81573.46,Recovered
+PAT-1071,Female,9,Ilorin,2023-06-20,2023-06-24,Maternity,Hypertension,4,HMO,111825.22,Recovered
+PAT-1072,Male,46,Ilorin,2023-06-02,2023-06-06,Maternity,Typhoid,4,Cash,29992.63,Under Treatment
+PAT-1073,Male,29,Ibadan,2023-11-09,2023-11-14,Maternity,Malaria,5,Cash,50896.73,Under Treatment
+PAT-1074,Male,25,Abeokuta,2023-05-08,2023-05-12,Pediatrics,Hypertension,4,HMO,137406.03,Referred
+PAT-1075,Male,59,Lagos,2023-03-17,2023-03-21,Inpatient,Typhoid,4,HMO,68898.8,Under Treatment
+PAT-1076,Male,15,Abuja,2023-07-25,2023-07-28,Outpatient,Ulcer,3,Insurance,38004.86,Under Treatment
+PAT-1077,Male,24,Abeokuta,2023-09-10,2023-09-11,Outpatient,Hypertension,1,Insurance,104078.41,Under Treatment
+PAT-1078,Female,44,Ibadan,2023-12-27,2024-01-03,Maternity,Ulcer,7,HMO,30039.78,Recovered
+PAT-1079,Female,64,Lagos,2023-07-24,2023-07-27,Inpatient,Asthma,3,Insurance,123921.75,Under Treatment
+PAT-1080,Female,28,Abuja,2023-10-08,2023-10-14,Pediatrics,Asthma,6,HMO,21087.12,Recovered
+PAT-1081,Female,2,Abuja,2023-02-10,2023-02-10,Pediatrics,Hypertension,0,HMO,46646.24,Recovered
+PAT-1082,Male,83,Ibadan,2023-07-24,2023-07-26,Pediatrics,Diabetes,2,Insurance,132064.58,Referred
+PAT-1083,Male,33,Ilorin,2023-01-30,2023-02-05,Emergency,Diabetes,6,Insurance,10143.1,Recovered
+PAT-1084,Male,6,Ilorin,2023-09-26,2023-09-28,Outpatient,Malaria,2,Insurance,9005.32,Referred
+PAT-1085,Female,25,Ilorin,2023-03-08,2023-03-12,Emergency,Ulcer,4,HMO,43856.11,Under Treatment
+PAT-1086,Male,32,Abuja,2023-11-25,2023-11-28,Pediatrics,Hypertension,3,HMO,106218.17,Referred
+PAT-1087,Female,46,Abeokuta,2023-09-25,2023-09-25,Inpatient,Typhoid,0,HMO,132615.26,Under Treatment
+PAT-1088,Male,35,Abuja,2023-12-06,2023-12-07,Inpatient,Ulcer,1,Insurance,26896.41,Recovered
+PAT-1089,Male,7,Abeokuta,2023-08-08,2023-08-08,Pediatrics,Ulcer,0,HMO,58686.71,Under Treatment
+PAT-1090,Female,69,Lagos,2023-01-21,2023-01-23,Pediatrics,Hypertension,2,HMO,135320.47,Under Treatment
+PAT-1091,Female,12,Ibadan,2023-01-13,2023-01-17,Emergency,Malaria,4,Insurance,129655.77,Recovered
+PAT-1092,Female,17,Ibadan,2023-05-14,2023-05-19,Emergency,Malaria,5,Insurance,66600.4,Recovered
+PAT-1093,Female,43,Abeokuta,2023-09-15,2023-09-18,Pediatrics,Malaria,3,Insurance,23809.91,Under Treatment
+PAT-1094,Male,38,Lagos,2023-09-26,2023-09-26,Emergency,Ulcer,0,Cash,80556.26,Recovered
+PAT-1095,Male,17,Ibadan,2023-07-29,2023-08-03,Emergency,Typhoid,5,HMO,82383.86,Under Treatment
+PAT-1096,Female,46,Abeokuta,2023-06-02,2023-06-07,Maternity,Malaria,5,Insurance,81288.62,Recovered
+PAT-1097,Male,42,Ilorin,2023-06-12,2023-06-17,Emergency,Typhoid,5,Cash,70850.61,Under Treatment
+PAT-1098,Male,75,Ibadan,2023-07-14,2023-07-15,Maternity,Hypertension,1,Cash,88462.58,Under Treatment
+PAT-1099,Female,47,Ilorin,2023-05-06,2023-05-11,Emergency,Ulcer,5,Cash,91747.91,Under Treatment
+PAT-1100,Female,4,Lagos,2023-09-30,2023-10-02,Maternity,Diabetes,2,Insurance,136486.91,Recovered
+PAT-1101,Female,13,Ibadan,2023-07-30,2023-07-30,Inpatient,Typhoid,0,Cash,14682.12,Referred
+PAT-1102,Male,10,Abeokuta,2023-09-27,2023-09-28,Pediatrics,Diabetes,1,Insurance,90602.08,Under Treatment
+PAT-1103,Female,29,Lagos,2023-12-30,2024-01-03,Pediatrics,Diabetes,4,Cash,102962.05,Referred
+PAT-1104,Female,10,Lagos,2023-04-07,2023-04-14,Outpatient,Malaria,7,HMO,82138.31,Under Treatment
+PAT-1105,Female,10,Ibadan,2023-09-21,2023-09-28,Emergency,Asthma,7,Cash,5928.18,Under Treatment
+PAT-1106,Female,70,Abeokuta,2023-12-23,2023-12-23,Emergency,Hypertension,0,HMO,98531.94,Referred
+PAT-1107,Female,70,Abeokuta,2023-05-25,2023-05-31,Maternity,Typhoid,6,Cash,70615.73,Recovered
+PAT-1108,Male,76,Abuja,2023-09-17,2023-09-24,Outpatient,Diabetes,7,Cash,111739.62,Referred
+PAT-1109,Female,54,Ibadan,2023-01-19,2023-01-24,Outpatient,Asthma,5,Insurance,127719.82,Under Treatment
+PAT-1110,Female,35,Abuja,2023-05-18,2023-05-25,Pediatrics,Malaria,7,Cash,121511.86,Under Treatment
+PAT-1111,Male,54,Lagos,2023-07-01,2023-07-03,Emergency,Diabetes,2,Cash,129393.18,Referred
+PAT-1112,Female,34,Ilorin,2023-05-28,2023-06-03,Emergency,Typhoid,6,Cash,53705.99,Under Treatment
+PAT-1113,Female,52,Ibadan,2023-04-21,2023-04-28,Outpatient,Ulcer,7,Insurance,34890.25,Recovered
+PAT-1114,Male,14,Ilorin,2023-04-28,2023-04-28,Outpatient,Malaria,0,Cash,99200.75,Recovered
+PAT-1115,Male,55,Abeokuta,2023-01-02,2023-01-03,Inpatient,Typhoid,1,HMO,66172.49,Recovered
+PAT-1116,Female,71,Ibadan,2023-11-30,2023-12-01,Emergency,Ulcer,1,HMO,45419.24,Under Treatment
+PAT-1117,Male,28,Ilorin,2023-12-27,2023-12-27,Outpatient,Ulcer,0,HMO,69857.47,Referred
+PAT-1118,Female,51,Ibadan,2023-09-18,2023-09-25,Inpatient,Hypertension,7,Cash,93977.22,Referred
+PAT-1119,Female,67,Abeokuta,2023-04-14,2023-04-16,Emergency,Malaria,2,Cash,96881.04,Referred
+PAT-1120,Male,63,Abuja,2023-04-20,2023-04-25,Emergency,Hypertension,5,Insurance,83377.72,Under Treatment
+PAT-1121,Female,30,Abuja,2023-06-03,2023-06-04,Inpatient,Typhoid,1,Cash,26508.84,Under Treatment
+PAT-1122,Male,72,Abeokuta,2023-04-10,2023-04-16,Maternity,Ulcer,6,HMO,26583.94,Under Treatment
+PAT-1123,Female,62,Abuja,2023-05-19,2023-05-23,Pediatrics,Ulcer,4,Insurance,77319.93,Referred
+PAT-1124,Male,44,Abeokuta,2023-08-29,2023-09-01,Pediatrics,Diabetes,3,HMO,26667.28,Referred
+PAT-1125,Female,83,Abeokuta,2023-06-16,2023-06-18,Pediatrics,Diabetes,2,Cash,52856.03,Recovered
+PAT-1126,Male,29,Abeokuta,2023-03-13,2023-03-17,Inpatient,Hypertension,4,HMO,21839.94,Referred
+PAT-1127,Male,55,Ibadan,2023-04-13,2023-04-17,Emergency,Malaria,4,HMO,36938.64,Referred
+PAT-1128,Female,81,Abeokuta,2023-04-25,2023-04-29,Maternity,Malaria,4,Cash,8353.09,Under Treatment
+PAT-1129,Male,15,Abeokuta,2023-06-27,2023-06-29,Outpatient,Malaria,2,Cash,16219.39,Referred
+PAT-1130,Female,41,Abeokuta,2023-02-22,2023-02-26,Outpatient,Diabetes,4,Cash,9519.65,Recovered
+PAT-1131,Male,82,Ibadan,2023-07-24,2023-07-29,Emergency,Ulcer,5,Cash,6154.61,Under Treatment
+PAT-1132,Male,83,Abeokuta,2023-02-27,2023-03-04,Emergency,Ulcer,5,Cash,18205.59,Referred
+PAT-1133,Female,73,Abuja,2023-11-14,2023-11-21,Inpatient,Asthma,7,HMO,48887.36,Recovered
+PAT-1134,Male,23,Ilorin,2023-01-28,2023-01-29,Emergency,Diabetes,1,HMO,7897.99,Referred
+PAT-1135,Female,61,Ibadan,2023-05-19,2023-05-23,Emergency,Diabetes,4,Insurance,99891.08,Referred
+PAT-1136,Female,80,Lagos,2023-07-05,2023-07-05,Inpatient,Malaria,0,Insurance,137453.59,Recovered
+PAT-1137,Female,62,Abuja,2023-12-13,2023-12-16,Inpatient,Malaria,3,Insurance,128120.88,Under Treatment
+PAT-1138,Male,16,Abuja,2023-08-14,2023-08-20,Emergency,Typhoid,6,HMO,104608.47,Referred
+PAT-1139,Male,69,Ilorin,2023-11-06,2023-11-06,Maternity,Hypertension,0,Insurance,71631.68,Under Treatment
+PAT-1140,Female,36,Ilorin,2023-11-03,2023-11-09,Maternity,Malaria,6,Cash,12724.77,Under Treatment
+PAT-1141,Male,6,Abeokuta,2023-01-20,2023-01-20,Maternity,Hypertension,0,Cash,84899.23,Referred
+PAT-1142,Male,61,Abeokuta,2023-12-02,2023-12-07,Inpatient,Ulcer,5,Insurance,86541.7,Under Treatment
+PAT-1143,Female,6,Ilorin,2023-03-23,2023-03-24,Emergency,Ulcer,1,Cash,100345.53,Recovered
+PAT-1144,Female,54,Abuja,2023-11-12,2023-11-18,Emergency,Asthma,6,Cash,120737.82,Recovered
+PAT-1145,Male,8,Abeokuta,2023-11-22,2023-11-24,Inpatient,Malaria,2,HMO,98197.94,Under Treatment
+PAT-1146,Female,75,Lagos,2023-06-24,2023-06-25,Pediatrics,Hypertension,1,HMO,125908.01,Recovered
+PAT-1147,Female,13,Abuja,2023-07-23,2023-07-26,Inpatient,Diabetes,3,HMO,71889.29,Under Treatment
+PAT-1148,Male,84,Ilorin,2023-07-09,2023-07-16,Pediatrics,Ulcer,7,Cash,83593.47,Referred
+PAT-1149,Male,17,Ilorin,2023-09-07,2023-09-11,Pediatrics,Diabetes,4,Insurance,120856.33,Referred
+PAT-1150,Female,59,Lagos,2023-02-08,2023-02-10,Inpatient,Asthma,2,HMO,124773.61,Under Treatment
+PAT-1151,Male,51,Abeokuta,2023-01-10,2023-01-17,Pediatrics,Ulcer,7,Insurance,83897.91,Recovered
+PAT-1152,Female,85,Lagos,2023-08-05,2023-08-07,Outpatient,Diabetes,2,HMO,140637.26,Recovered
+PAT-1153,Male,75,Ilorin,2023-03-31,2023-04-06,Inpatient,Hypertension,6,Insurance,140688.45,Referred
+PAT-1154,Female,32,Ibadan,2023-04-08,2023-04-09,Maternity,Asthma,1,HMO,12010.38,Recovered
+PAT-1155,Male,83,Abeokuta,2023-10-14,2023-10-15,Inpatient,Asthma,1,Insurance,8023.41,Under Treatment
+PAT-1156,Male,54,Abeokuta,2023-08-27,2023-08-31,Emergency,Diabetes,4,HMO,97292.83,Referred
+PAT-1157,Female,51,Lagos,2023-08-02,2023-08-04,Pediatrics,Ulcer,2,Cash,57198.68,Recovered
+PAT-1158,Male,23,Abuja,2023-05-13,2023-05-17,Emergency,Ulcer,4,Insurance,42477.93,Under Treatment
+PAT-1159,Female,36,Ibadan,2023-06-28,2023-07-04,Inpatient,Typhoid,6,Insurance,144027.9,Recovered
+PAT-1160,Male,75,Abeokuta,2023-04-11,2023-04-12,Pediatrics,Typhoid,1,HMO,131427.76,Referred
+PAT-1161,Male,51,Ibadan,2023-03-13,2023-03-20,Outpatient,Ulcer,7,Insurance,118997.54,Recovered
+PAT-1162,Male,49,Abeokuta,2023-01-16,2023-01-22,Maternity,Asthma,6,Insurance,102539.8,Referred
+PAT-1163,Female,49,Lagos,2023-02-07,2023-02-10,Pediatrics,Diabetes,3,Cash,113613.44,Recovered
+PAT-1164,Female,19,Abeokuta,2023-04-26,2023-04-30,Emergency,Malaria,4,Insurance,79571.28,Under Treatment
+PAT-1165,Male,3,Abeokuta,2023-04-17,2023-04-24,Emergency,Malaria,7,Cash,41960.0,Recovered
+PAT-1166,Male,21,Ibadan,2023-01-27,2023-02-01,Pediatrics,Diabetes,5,HMO,90042.43,Referred
+PAT-1167,Male,16,Ilorin,2023-04-17,2023-04-23,Maternity,Ulcer,6,Insurance,123014.47,Referred
+PAT-1168,Female,16,Ilorin,2023-05-11,2023-05-11,Maternity,Diabetes,0,HMO,38446.88,Recovered
+PAT-1169,Male,71,Ilorin,2023-11-23,2023-11-25,Emergency,Typhoid,2,HMO,66072.82,Under Treatment
+PAT-1170,Male,17,Ilorin,2023-09-10,2023-09-11,Outpatient,Diabetes,1,Cash,36078.98,Referred
+PAT-1171,Male,32,Ibadan,2023-10-03,2023-10-08,Pediatrics,Hypertension,5,Cash,32374.71,Recovered
+PAT-1172,Female,66,Lagos,2023-11-01,2023-11-04,Inpatient,Asthma,3,Cash,100502.06,Referred
+PAT-1173,Male,7,Abeokuta,2023-02-03,2023-02-08,Inpatient,Asthma,5,Insurance,128800.47,Under Treatment
+PAT-1174,Male,75,Abeokuta,2023-08-29,2023-08-29,Pediatrics,Typhoid,0,Insurance,148995.65,Referred
+PAT-1175,Female,51,Ilorin,2023-10-21,2023-10-25,Outpatient,Malaria,4,HMO,142409.39,Under Treatment
+PAT-1176,Female,39,Lagos,2023-01-09,2023-01-15,Maternity,Typhoid,6,HMO,85583.23,Under Treatment
+PAT-1177,Male,54,Abeokuta,2023-02-03,2023-02-08,Maternity,Asthma,5,Insurance,10355.92,Referred
+PAT-1178,Female,43,Abeokuta,2023-01-08,2023-01-09,Outpatient,Malaria,1,HMO,58672.88,Recovered
+PAT-1179,Female,70,Abeokuta,2023-09-06,2023-09-07,Maternity,Asthma,1,Insurance,138776.17,Under Treatment
+PAT-1180,Male,19,Abeokuta,2023-07-04,2023-07-07,Outpatient,Typhoid,3,Cash,50994.14,Referred
+PAT-1181,Female,44,Ibadan,2023-08-04,2023-08-09,Outpatient,Malaria,5,HMO,40764.0,Under Treatment
+PAT-1182,Male,74,Ibadan,2023-07-23,2023-07-27,Inpatient,Typhoid,4,Cash,65000.72,Recovered
+PAT-1183,Male,31,Abuja,2023-05-25,2023-05-29,Pediatrics,Diabetes,4,Insurance,111944.62,Under Treatment
+PAT-1184,Female,71,Abuja,2023-04-15,2023-04-16,Maternity,Malaria,1,Insurance,10111.49,Under Treatment
+PAT-1185,Male,41,Abeokuta,2023-01-20,2023-01-20,Outpatient,Asthma,0,HMO,90311.25,Referred
+PAT-1186,Male,24,Ibadan,2023-11-19,2023-11-25,Maternity,Diabetes,6,Insurance,146198.14,Referred
+PAT-1187,Male,59,Abuja,2023-03-04,2023-03-08,Pediatrics,Diabetes,4,Cash,139423.56,Referred
+PAT-1188,Male,82,Ilorin,2023-07-01,2023-07-04,Outpatient,Hypertension,3,Insurance,41730.44,Referred
+PAT-1189,Male,30,Ibadan,2023-01-21,2023-01-21,Maternity,Hypertension,0,Insurance,35368.36,Under Treatment
+PAT-1190,Female,65,Ilorin,2023-05-05,2023-05-12,Outpatient,Malaria,7,Insurance,91176.41,Recovered
+PAT-1191,Female,75,Abuja,2023-12-17,2023-12-21,Outpatient,Asthma,4,Cash,7995.05,Recovered
+PAT-1192,Female,75,Ibadan,2023-12-04,2023-12-10,Pediatrics,Malaria,6,Insurance,106735.53,Under Treatment
+PAT-1193,Female,77,Abeokuta,2023-11-08,2023-11-15,Pediatrics,Ulcer,7,Insurance,125651.5,Referred
+PAT-1194,Female,73,Abuja,2023-09-26,2023-09-30,Emergency,Asthma,4,Insurance,92667.72,Recovered
+PAT-1195,Female,46,Lagos,2023-08-23,2023-08-30,Pediatrics,Diabetes,7,Cash,105959.62,Referred
+PAT-1196,Male,56,Abuja,2023-03-16,2023-03-22,Outpatient,Hypertension,6,Cash,113955.55,Referred
+PAT-1197,Female,49,Abuja,2023-01-28,2023-02-01,Emergency,Hypertension,4,HMO,132304.42,Recovered
+PAT-1198,Male,43,Lagos,2023-04-17,2023-04-18,Emergency,Hypertension,1,Cash,93078.37,Recovered
+PAT-1199,Female,65,Abuja,2023-01-14,2023-01-16,Emergency,Ulcer,2,Cash,65963.3,Referred
+PAT-1200,Male,26,Abeokuta,2023-08-25,2023-08-26,Outpatient,Asthma,1,HMO,39909.96,Recovered
+PAT-1201,Male,49,Abuja,2023-05-05,2023-05-11,Emergency,Diabetes,6,Insurance,108336.78,Referred
+PAT-1202,Male,64,Ibadan,2023-06-07,2023-06-14,Emergency,Diabetes,7,Cash,85314.84,Referred
+PAT-1203,Female,78,Abeokuta,2023-09-08,2023-09-13,Emergency,Hypertension,5,Cash,6637.48,Under Treatment
+PAT-1204,Male,15,Abeokuta,2023-02-14,2023-02-21,Emergency,Typhoid,7,Cash,59046.66,Recovered
+PAT-1205,Male,77,Lagos,2023-01-28,2023-01-29,Emergency,Typhoid,1,Insurance,146883.0,Recovered
+PAT-1206,Male,8,Ibadan,2023-04-22,2023-04-22,Outpatient,Asthma,0,Insurance,10056.95,Under Treatment
+PAT-1207,Male,79,Ilorin,2023-06-20,2023-06-20,Inpatient,Hypertension,0,Cash,47827.66,Referred
+PAT-1208,Male,30,Ilorin,2023-09-25,2023-09-29,Outpatient,Diabetes,4,Insurance,145678.15,Referred
+PAT-1209,Female,43,Ibadan,2023-08-20,2023-08-20,Outpatient,Malaria,0,HMO,31831.94,Referred
+PAT-1210,Male,28,Abuja,2023-02-17,2023-02-19,Outpatient,Diabetes,2,Insurance,120254.76,Referred
+PAT-1211,Male,57,Ibadan,2023-03-16,2023-03-17,Emergency,Diabetes,1,Cash,13455.13,Recovered
+PAT-1212,Male,30,Ibadan,2023-08-15,2023-08-18,Outpatient,Ulcer,3,Insurance,12836.5,Referred
+PAT-1213,Female,29,Abeokuta,2023-03-01,2023-03-02,Pediatrics,Malaria,1,Insurance,109775.66,Referred
+PAT-1214,Female,42,Ilorin,2023-05-09,2023-05-12,Maternity,Malaria,3,Cash,130356.71,Under Treatment
+PAT-1215,Female,32,Lagos,2023-02-15,2023-02-21,Maternity,Asthma,6,HMO,21506.55,Recovered
+PAT-1216,Female,69,Abuja,2023-08-12,2023-08-16,Pediatrics,Malaria,4,Cash,57833.39,Under Treatment
+PAT-1217,Female,66,Lagos,2023-07-22,2023-07-29,Emergency,Hypertension,7,Insurance,48820.85,Recovered
+PAT-1218,Male,22,Lagos,2023-10-08,2023-10-10,Inpatient,Asthma,2,Insurance,122835.0,Under Treatment
+PAT-1219,Male,83,Abuja,2023-05-01,2023-05-06,Pediatrics,Malaria,5,Cash,16203.1,Recovered
+PAT-1220,Male,58,Abuja,2023-10-09,2023-10-14,Outpatient,Hypertension,5,HMO,32084.47,Referred
+PAT-1221,Female,25,Abuja,2023-01-18,2023-01-18,Maternity,Ulcer,0,Cash,129409.29,Referred
+PAT-1222,Male,44,Lagos,2023-11-18,2023-11-23,Pediatrics,Ulcer,5,Insurance,146673.61,Referred
+PAT-1223,Female,8,Abuja,2023-12-31,2024-01-03,Maternity,Diabetes,3,Cash,40429.57,Recovered
+PAT-1224,Male,73,Ibadan,2023-04-29,2023-05-03,Inpatient,Hypertension,4,Insurance,58488.58,Under Treatment
+PAT-1225,Female,30,Abeokuta,2023-03-14,2023-03-16,Maternity,Hypertension,2,HMO,135658.0,Referred
+PAT-1226,Female,57,Lagos,2023-11-04,2023-11-10,Maternity,Typhoid,6,Cash,33342.74,Recovered
+PAT-1227,Male,30,Lagos,2023-05-22,2023-05-25,Outpatient,Diabetes,3,Insurance,75428.94,Recovered
+PAT-1228,Male,11,Lagos,2023-01-26,2023-01-31,Outpatient,Typhoid,5,Cash,98354.31,Recovered
+PAT-1229,Male,22,Lagos,2023-11-05,2023-11-10,Emergency,Typhoid,5,Cash,85054.24,Recovered
+PAT-1230,Male,72,Ilorin,2023-07-07,2023-07-14,Outpatient,Malaria,7,HMO,51231.28,Referred
+PAT-1231,Male,78,Ilorin,2023-10-18,2023-10-22,Emergency,Malaria,4,Cash,128405.55,Under Treatment
+PAT-1232,Female,3,Lagos,2023-02-02,2023-02-07,Emergency,Diabetes,5,Cash,125958.47,Under Treatment
+PAT-1233,Female,54,Lagos,2023-06-06,2023-06-13,Emergency,Hypertension,7,Insurance,21791.82,Under Treatment
+PAT-1234,Female,36,Abeokuta,2023-11-10,2023-11-13,Emergency,Malaria,3,HMO,42106.21,Recovered
+PAT-1235,Female,46,Abuja,2023-06-15,2023-06-17,Maternity,Hypertension,2,HMO,87215.24,Recovered
+PAT-1236,Male,20,Ibadan,2023-07-22,2023-07-29,Inpatient,Asthma,7,Insurance,112462.45,Recovered
+PAT-1237,Female,73,Abeokuta,2023-09-23,2023-09-30,Inpatient,Asthma,7,HMO,107693.47,Under Treatment
+PAT-1238,Female,71,Lagos,2023-01-07,2023-01-13,Maternity,Ulcer,6,HMO,59104.33,Referred
+PAT-1239,Female,57,Ibadan,2023-07-08,2023-07-13,Pediatrics,Diabetes,5,Cash,33308.6,Recovered
+PAT-1240,Female,47,Lagos,2023-08-15,2023-08-15,Maternity,Typhoid,0,Cash,74351.92,Referred
+PAT-1241,Male,57,Abeokuta,2023-04-30,2023-04-30,Inpatient,Ulcer,0,Cash,149071.46,Recovered
+PAT-1242,Female,18,Lagos,2023-06-11,2023-06-15,Inpatient,Diabetes,4,HMO,94497.17,Under Treatment
+PAT-1243,Female,60,Lagos,2023-04-30,2023-05-06,Maternity,Asthma,6,HMO,78556.08,Under Treatment
+PAT-1244,Male,37,Ibadan,2023-10-31,2023-11-03,Emergency,Ulcer,3,Insurance,66688.92,Referred
+PAT-1245,Female,80,Abeokuta,2023-12-02,2023-12-04,Pediatrics,Asthma,2,Cash,126119.04,Recovered
+PAT-1246,Female,13,Lagos,2023-02-13,2023-02-14,Pediatrics,Typhoid,1,Cash,31388.13,Under Treatment
+PAT-1247,Female,76,Ilorin,2023-09-25,2023-09-25,Pediatrics,Diabetes,0,Cash,137333.81,Recovered
+PAT-1248,Male,24,Ibadan,2023-11-03,2023-11-07,Maternity,Hypertension,4,Insurance,69620.57,Under Treatment
+PAT-1249,Male,14,Ilorin,2023-08-15,2023-08-20,Emergency,Asthma,5,Cash,72470.52,Referred
+PAT-1250,Female,52,Abeokuta,2023-02-19,2023-02-21,Pediatrics,Typhoid,2,HMO,26598.46,Recovered
+PAT-1251,Male,79,Lagos,2023-06-29,2023-07-01,Pediatrics,Diabetes,2,HMO,132190.53,Recovered
+PAT-1252,Female,55,Lagos,2023-12-24,2023-12-25,Emergency,Hypertension,1,HMO,51638.6,Under Treatment
+PAT-1253,Female,50,Abuja,2023-07-23,2023-07-23,Emergency,Asthma,0,HMO,89272.07,Under Treatment
+PAT-1254,Male,13,Ilorin,2023-05-29,2023-05-31,Inpatient,Asthma,2,Cash,20294.73,Recovered
+PAT-1255,Female,41,Abeokuta,2023-10-02,2023-10-07,Emergency,Asthma,5,HMO,90882.12,Under Treatment
+PAT-1256,Male,51,Lagos,2023-06-15,2023-06-22,Inpatient,Typhoid,7,HMO,34023.31,Referred
+PAT-1257,Male,42,Abuja,2023-05-06,2023-05-06,Pediatrics,Typhoid,0,Insurance,54921.06,Under Treatment
+PAT-1258,Male,27,Abuja,2023-11-04,2023-11-10,Pediatrics,Malaria,6,HMO,60763.87,Recovered
+PAT-1259,Male,84,Lagos,2023-01-05,2023-01-11,Outpatient,Malaria,6,HMO,51436.5,Recovered
+PAT-1260,Male,13,Abuja,2023-12-30,2024-01-03,Outpatient,Asthma,4,Cash,143038.76,Recovered
+PAT-1261,Female,44,Ilorin,2023-10-01,2023-10-03,Emergency,Diabetes,2,HMO,131338.3,Referred
+PAT-1262,Male,27,Lagos,2023-09-25,2023-09-29,Maternity,Diabetes,4,Insurance,144802.13,Recovered
+PAT-1263,Male,75,Ilorin,2023-03-03,2023-03-10,Inpatient,Typhoid,7,Cash,92971.46,Referred
+PAT-1264,Male,77,Abuja,2023-12-26,2023-12-31,Inpatient,Diabetes,5,Insurance,39077.71,Under Treatment
+PAT-1265,Male,5,Lagos,2023-10-31,2023-11-07,Maternity,Ulcer,7,Cash,86897.54,Recovered
+PAT-1266,Female,18,Ibadan,2023-04-18,2023-04-23,Pediatrics,Malaria,5,Cash,9325.32,Under Treatment
+PAT-1267,Male,27,Abuja,2023-04-11,2023-04-14,Outpatient,Ulcer,3,Cash,123854.35,Recovered
+PAT-1268,Female,15,Ibadan,2023-02-06,2023-02-07,Pediatrics,Asthma,1,HMO,139911.82,Referred
+PAT-1269,Female,36,Abuja,2023-09-25,2023-10-02,Emergency,Diabetes,7,Cash,64650.99,Under Treatment
+PAT-1270,Male,26,Lagos,2023-10-09,2023-10-12,Inpatient,Hypertension,3,Insurance,39950.14,Under Treatment
+PAT-1271,Male,73,Lagos,2023-08-22,2023-08-29,Maternity,Hypertension,7,Insurance,11426.79,Under Treatment
+PAT-1272,Female,31,Ilorin,2023-08-01,2023-08-03,Emergency,Ulcer,2,HMO,113385.53,Referred
+PAT-1273,Male,67,Abuja,2023-08-21,2023-08-23,Outpatient,Malaria,2,Insurance,97172.69,Recovered
+PAT-1274,Male,3,Lagos,2023-08-12,2023-08-14,Emergency,Malaria,2,Insurance,73492.92,Recovered
+PAT-1275,Male,76,Ilorin,2023-09-05,2023-09-06,Maternity,Asthma,1,HMO,77689.81,Recovered
+PAT-1276,Female,83,Lagos,2023-10-03,2023-10-09,Maternity,Typhoid,6,Cash,74250.67,Referred
+PAT-1277,Male,15,Abeokuta,2023-06-12,2023-06-19,Maternity,Hypertension,7,HMO,58550.45,Recovered
+PAT-1278,Male,26,Ibadan,2023-07-01,2023-07-02,Maternity,Hypertension,1,Cash,137122.96,Recovered
+PAT-1279,Male,63,Abeokuta,2023-02-16,2023-02-20,Pediatrics,Typhoid,4,HMO,48243.51,Referred
+PAT-1280,Female,36,Ilorin,2023-01-21,2023-01-21,Inpatient,Typhoid,0,Cash,136840.29,Under Treatment
+PAT-1281,Female,69,Abeokuta,2023-09-02,2023-09-09,Inpatient,Hypertension,7,HMO,107391.2,Under Treatment
+PAT-1282,Female,42,Ilorin,2023-06-01,2023-06-03,Maternity,Typhoid,2,HMO,62773.34,Referred
+PAT-1283,Male,3,Ilorin,2023-04-23,2023-04-27,Outpatient,Hypertension,4,Cash,42580.08,Under Treatment
+PAT-1284,Male,18,Ilorin,2023-10-05,2023-10-09,Outpatient,Hypertension,4,Cash,73101.13,Referred
+PAT-1285,Male,17,Abeokuta,2023-06-16,2023-06-21,Inpatient,Ulcer,5,Cash,95264.23,Recovered
+PAT-1286,Female,2,Abeokuta,2023-08-25,2023-08-29,Outpatient,Ulcer,4,HMO,63208.86,Recovered
+PAT-1287,Female,78,Ibadan,2023-12-17,2023-12-22,Maternity,Typhoid,5,Cash,81815.33,Referred
+PAT-1288,Male,25,Abeokuta,2023-12-14,2023-12-14,Outpatient,Diabetes,0,Insurance,22007.46,Referred
+PAT-1289,Male,21,Lagos,2023-06-06,2023-06-09,Inpatient,Typhoid,3,Insurance,78037.49,Referred
+PAT-1290,Male,35,Abuja,2023-10-16,2023-10-22,Maternity,Typhoid,6,Insurance,15085.67,Referred
+PAT-1291,Female,3,Ilorin,2023-05-16,2023-05-16,Pediatrics,Asthma,0,Cash,126874.08,Recovered
+PAT-1292,Female,5,Ilorin,2023-04-05,2023-04-08,Emergency,Ulcer,3,Cash,79187.76,Recovered
+PAT-1293,Female,30,Ibadan,2023-04-02,2023-04-05,Pediatrics,Hypertension,3,Cash,123052.94,Recovered
+PAT-1294,Male,67,Ilorin,2023-05-12,2023-05-14,Maternity,Asthma,2,Insurance,73464.22,Under Treatment
+PAT-1295,Female,27,Ibadan,2023-12-26,2023-12-30,Pediatrics,Diabetes,4,Cash,82618.51,Recovered
+PAT-1296,Male,64,Abuja,2023-03-09,2023-03-12,Maternity,Ulcer,3,Cash,34131.02,Under Treatment
+PAT-1297,Male,32,Lagos,2023-02-20,2023-02-23,Pediatrics,Asthma,3,Cash,107490.62,Referred
+PAT-1298,Female,52,Ibadan,2023-11-21,2023-11-27,Pediatrics,Typhoid,6,Insurance,66736.59,Recovered
+PAT-1299,Male,79,Lagos,2023-05-30,2023-06-05,Maternity,Asthma,6,Cash,74423.55,Under Treatment
+PAT-1300,Female,42,Ibadan,2023-05-16,2023-05-17,Maternity,Diabetes,1,HMO,111319.73,Recovered
+PAT-1301,Female,34,Lagos,2023-07-09,2023-07-16,Outpatient,Hypertension,7,Cash,107258.18,Under Treatment
+PAT-1302,Male,75,Abeokuta,2023-01-15,2023-01-22,Pediatrics,Ulcer,7,Cash,121229.71,Recovered
+PAT-1303,Female,49,Abeokuta,2023-09-18,2023-09-18,Outpatient,Hypertension,0,Insurance,102549.55,Under Treatment
+PAT-1304,Female,79,Ibadan,2023-02-12,2023-02-16,Outpatient,Hypertension,4,Insurance,125026.88,Referred
+PAT-1305,Female,40,Abeokuta,2023-06-07,2023-06-12,Emergency,Hypertension,5,Cash,129153.48,Recovered
+PAT-1306,Female,68,Abeokuta,2023-11-18,2023-11-23,Inpatient,Diabetes,5,Insurance,96986.27,Referred
+PAT-1307,Female,40,Abuja,2023-04-22,2023-04-26,Maternity,Typhoid,4,Insurance,100217.89,Under Treatment
+PAT-1308,Male,19,Ibadan,2023-12-03,2023-12-06,Emergency,Diabetes,3,Cash,34373.51,Recovered
+PAT-1309,Male,41,Lagos,2023-10-11,2023-10-12,Outpatient,Asthma,1,Cash,36320.8,Recovered
+PAT-1310,Female,29,Abeokuta,2023-12-25,2023-12-29,Pediatrics,Ulcer,4,Cash,17096.31,Recovered
+PAT-1311,Female,68,Ibadan,2023-04-29,2023-04-30,Maternity,Asthma,1,Insurance,71433.35,Referred
+PAT-1312,Female,2,Lagos,2023-02-26,2023-03-01,Maternity,Diabetes,3,HMO,47654.86,Under Treatment
+PAT-1313,Male,35,Ibadan,2023-05-16,2023-05-21,Outpatient,Malaria,5,HMO,118241.22,Under Treatment
+PAT-1314,Female,10,Abuja,2023-01-22,2023-01-25,Outpatient,Malaria,3,Insurance,102584.24,Recovered
+PAT-1315,Male,25,Abeokuta,2023-04-09,2023-04-09,Maternity,Ulcer,0,HMO,133218.77,Recovered
+PAT-1316,Female,72,Lagos,2023-08-14,2023-08-14,Maternity,Diabetes,0,Insurance,37475.73,Recovered
+PAT-1317,Male,42,Abeokuta,2023-01-09,2023-01-11,Maternity,Typhoid,2,Cash,33252.12,Recovered
+PAT-1318,Female,46,Ilorin,2023-10-06,2023-10-10,Maternity,Malaria,4,HMO,82325.21,Under Treatment
+PAT-1319,Female,62,Lagos,2023-02-15,2023-02-17,Maternity,Typhoid,2,Insurance,81255.43,Referred
+PAT-1320,Female,19,Ilorin,2023-01-27,2023-02-01,Outpatient,Diabetes,5,Cash,110584.51,Referred
+PAT-1321,Female,5,Abeokuta,2023-09-01,2023-09-02,Pediatrics,Diabetes,1,HMO,44381.74,Recovered
+PAT-1322,Female,39,Abuja,2023-04-22,2023-04-25,Maternity,Ulcer,3,Insurance,140224.18,Under Treatment
+PAT-1323,Male,30,Ilorin,2023-04-08,2023-04-10,Inpatient,Hypertension,2,Insurance,100392.7,Under Treatment
+PAT-1324,Male,20,Abeokuta,2023-05-25,2023-05-25,Pediatrics,Hypertension,0,Cash,143578.01,Recovered
+PAT-1325,Female,85,Lagos,2023-10-17,2023-10-24,Outpatient,Hypertension,7,Insurance,53995.37,Under Treatment
+PAT-1326,Male,56,Ilorin,2023-09-10,2023-09-15,Emergency,Typhoid,5,Cash,56599.56,Referred
+PAT-1327,Male,80,Abeokuta,2023-04-28,2023-05-04,Emergency,Hypertension,6,Insurance,8736.21,Referred
+PAT-1328,Male,59,Ilorin,2023-09-10,2023-09-10,Emergency,Hypertension,0,HMO,18240.29,Under Treatment
+PAT-1329,Female,36,Lagos,2023-12-13,2023-12-13,Maternity,Typhoid,0,Insurance,67326.86,Under Treatment
+PAT-1330,Female,63,Ibadan,2023-08-15,2023-08-18,Maternity,Ulcer,3,Cash,22460.49,Under Treatment
+PAT-1331,Male,42,Lagos,2023-01-13,2023-01-14,Emergency,Ulcer,1,HMO,16745.61,Under Treatment
+PAT-1332,Female,82,Ibadan,2023-07-10,2023-07-16,Maternity,Asthma,6,Cash,86566.29,Referred
+PAT-1333,Male,3,Abuja,2023-01-18,2023-01-18,Emergency,Malaria,0,Insurance,82953.95,Referred
+PAT-1334,Female,3,Lagos,2023-12-15,2023-12-20,Inpatient,Asthma,5,Cash,111577.86,Referred
+PAT-1335,Male,57,Ilorin,2023-01-30,2023-01-30,Inpatient,Typhoid,0,Insurance,38636.74,Under Treatment
+PAT-1336,Female,41,Abeokuta,2023-01-21,2023-01-23,Maternity,Hypertension,2,HMO,28570.92,Under Treatment
+PAT-1337,Male,67,Ibadan,2023-04-24,2023-04-28,Maternity,Asthma,4,HMO,59751.61,Under Treatment
+PAT-1338,Female,35,Abeokuta,2023-09-19,2023-09-25,Outpatient,Asthma,6,Insurance,73512.12,Referred
+PAT-1339,Male,56,Abuja,2023-08-03,2023-08-05,Pediatrics,Diabetes,2,HMO,74790.21,Under Treatment
+PAT-1340,Female,51,Abuja,2023-12-29,2024-01-05,Inpatient,Typhoid,7,Cash,83616.52,Referred
+PAT-1341,Male,34,Abuja,2023-12-27,2023-12-30,Pediatrics,Hypertension,3,Insurance,43275.77,Referred
+PAT-1342,Female,3,Ibadan,2023-05-10,2023-05-17,Inpatient,Diabetes,7,Insurance,21374.62,Recovered
+PAT-1343,Female,13,Ibadan,2023-03-30,2023-03-31,Outpatient,Asthma,1,Cash,12437.56,Under Treatment
+PAT-1344,Female,46,Ibadan,2023-11-25,2023-11-28,Emergency,Typhoid,3,Cash,131663.46,Referred
+PAT-1345,Female,11,Abeokuta,2023-07-19,2023-07-23,Emergency,Diabetes,4,Cash,67548.28,Referred
+PAT-1346,Male,24,Abuja,2023-08-12,2023-08-16,Emergency,Diabetes,4,Cash,14755.12,Referred
+PAT-1347,Male,19,Abeokuta,2023-06-12,2023-06-14,Inpatient,Ulcer,2,Cash,142266.53,Recovered
+PAT-1348,Male,27,Lagos,2023-07-03,2023-07-05,Pediatrics,Malaria,2,Cash,75927.96,Referred
+PAT-1349,Male,4,Lagos,2023-01-18,2023-01-19,Inpatient,Malaria,1,Cash,69331.32,Referred
+PAT-1350,Female,77,Abuja,2023-05-20,2023-05-26,Outpatient,Malaria,6,HMO,93579.98,Recovered
+PAT-1351,Male,23,Ibadan,2023-10-12,2023-10-19,Outpatient,Hypertension,7,Insurance,45393.16,Referred
+PAT-1352,Female,70,Abuja,2023-08-24,2023-08-30,Maternity,Typhoid,6,Cash,131009.43,Referred
+PAT-1353,Female,31,Lagos,2023-07-22,2023-07-29,Maternity,Hypertension,7,Insurance,96267.51,Under Treatment
+PAT-1354,Male,38,Abeokuta,2023-11-23,2023-11-23,Pediatrics,Malaria,0,Cash,89797.94,Referred
+PAT-1355,Female,7,Ibadan,2023-06-11,2023-06-17,Pediatrics,Typhoid,6,Cash,111684.4,Referred
+PAT-1356,Female,72,Abuja,2023-01-09,2023-01-09,Inpatient,Typhoid,0,Cash,111484.9,Recovered
+PAT-1357,Female,83,Abuja,2023-05-27,2023-06-02,Maternity,Diabetes,6,HMO,42165.67,Referred
+PAT-1358,Female,70,Lagos,2023-01-18,2023-01-24,Emergency,Typhoid,6,Insurance,70719.21,Referred
+PAT-1359,Male,65,Abeokuta,2023-10-12,2023-10-14,Maternity,Ulcer,2,HMO,61974.44,Under Treatment
+PAT-1360,Female,81,Lagos,2023-09-08,2023-09-08,Emergency,Ulcer,0,Cash,44754.47,Under Treatment
+PAT-1361,Male,14,Ilorin,2023-01-05,2023-01-06,Inpatient,Asthma,1,Insurance,11021.11,Recovered
+PAT-1362,Male,5,Ibadan,2023-02-25,2023-02-26,Emergency,Typhoid,1,Cash,26248.62,Under Treatment
+PAT-1363,Male,50,Lagos,2023-02-28,2023-02-28,Maternity,Typhoid,0,HMO,75955.14,Recovered
+PAT-1364,Male,66,Abuja,2023-06-30,2023-07-06,Maternity,Typhoid,6,Insurance,139961.81,Recovered
+PAT-1365,Male,13,Ibadan,2023-01-08,2023-01-12,Outpatient,Asthma,4,HMO,45769.65,Under Treatment
+PAT-1366,Male,59,Lagos,2023-10-30,2023-11-03,Emergency,Asthma,4,HMO,101494.56,Recovered
+PAT-1367,Female,47,Ibadan,2023-09-18,2023-09-18,Pediatrics,Ulcer,0,HMO,27521.35,Recovered
+PAT-1368,Male,28,Abeokuta,2023-07-11,2023-07-15,Inpatient,Malaria,4,HMO,6078.09,Referred
+PAT-1369,Female,83,Abuja,2023-09-05,2023-09-10,Pediatrics,Diabetes,5,HMO,68798.58,Under Treatment
+PAT-1370,Male,66,Lagos,2023-01-28,2023-02-01,Inpatient,Malaria,4,HMO,40096.28,Under Treatment
+PAT-1371,Male,63,Ilorin,2023-05-12,2023-05-12,Pediatrics,Typhoid,0,Insurance,79885.5,Under Treatment
+PAT-1372,Female,14,Lagos,2023-02-21,2023-02-24,Outpatient,Asthma,3,HMO,68744.16,Referred
+PAT-1373,Female,21,Abuja,2023-12-08,2023-12-11,Emergency,Diabetes,3,Cash,113306.34,Referred
+PAT-1374,Female,29,Abeokuta,2023-03-18,2023-03-18,Maternity,Malaria,0,Insurance,54584.91,Recovered
+PAT-1375,Male,34,Ibadan,2023-12-24,2023-12-27,Pediatrics,Ulcer,3,HMO,58511.65,Under Treatment
+PAT-1376,Female,1,Abeokuta,2023-04-08,2023-04-09,Emergency,Asthma,1,HMO,120259.2,Under Treatment
+PAT-1377,Female,52,Abuja,2023-10-29,2023-11-02,Maternity,Typhoid,4,Insurance,139714.7,Under Treatment
+PAT-1378,Male,45,Ibadan,2023-04-25,2023-05-02,Maternity,Malaria,7,HMO,142820.46,Recovered
+PAT-1379,Female,69,Ilorin,2023-11-15,2023-11-18,Pediatrics,Asthma,3,HMO,5662.05,Under Treatment
+PAT-1380,Female,61,Ilorin,2023-03-20,2023-03-23,Outpatient,Ulcer,3,Cash,138005.13,Referred
+PAT-1381,Female,28,Abeokuta,2023-03-26,2023-04-02,Outpatient,Ulcer,7,Cash,47485.3,Recovered
+PAT-1382,Female,61,Abuja,2023-05-09,2023-05-13,Maternity,Diabetes,4,Cash,35580.6,Recovered
+PAT-1383,Female,64,Lagos,2023-06-09,2023-06-13,Emergency,Malaria,4,Cash,120901.09,Under Treatment
+PAT-1384,Female,50,Ilorin,2023-03-18,2023-03-22,Inpatient,Ulcer,4,Cash,10737.33,Referred
+PAT-1385,Female,7,Ibadan,2023-04-16,2023-04-21,Pediatrics,Typhoid,5,Insurance,143591.66,Referred
+PAT-1386,Female,17,Lagos,2023-12-26,2023-12-31,Maternity,Hypertension,5,Cash,80272.79,Referred
+PAT-1387,Male,5,Ilorin,2023-05-04,2023-05-05,Outpatient,Malaria,1,Insurance,134420.82,Referred
+PAT-1388,Male,55,Ibadan,2023-05-24,2023-05-27,Outpatient,Malaria,3,Cash,61605.03,Referred
+PAT-1389,Female,49,Ibadan,2023-12-17,2023-12-18,Inpatient,Malaria,1,Cash,65796.13,Referred
+PAT-1390,Male,75,Abuja,2023-09-07,2023-09-10,Pediatrics,Typhoid,3,HMO,31004.45,Recovered
+PAT-1391,Female,10,Ilorin,2023-09-22,2023-09-29,Inpatient,Ulcer,7,Cash,117803.75,Under Treatment
+PAT-1392,Female,11,Ilorin,2023-01-17,2023-01-21,Pediatrics,Diabetes,4,Cash,19550.17,Recovered
+PAT-1393,Male,33,Lagos,2023-09-02,2023-09-04,Outpatient,Typhoid,2,HMO,62891.2,Recovered
+PAT-1394,Female,1,Abuja,2023-10-18,2023-10-22,Outpatient,Ulcer,4,Cash,28482.33,Referred
+PAT-1395,Female,23,Abeokuta,2023-04-13,2023-04-14,Maternity,Ulcer,1,HMO,8373.87,Under Treatment
+PAT-1396,Female,1,Abeokuta,2023-12-16,2023-12-16,Inpatient,Typhoid,0,Insurance,112219.3,Under Treatment
+PAT-1397,Male,25,Ibadan,2023-12-01,2023-12-07,Maternity,Diabetes,6,Cash,83303.38,Under Treatment
+PAT-1398,Female,25,Ilorin,2023-12-07,2023-12-11,Inpatient,Typhoid,4,HMO,47406.83,Under Treatment
+PAT-1399,Female,81,Abeokuta,2023-12-31,2024-01-02,Emergency,Malaria,2,HMO,97931.05,Recovered
+PAT-1400,Female,14,Lagos,2023-10-02,2023-10-02,Emergency,Diabetes,0,Insurance,28606.44,Referred
+PAT-1401,Female,50,Lagos,2023-01-17,2023-01-20,Emergency,Malaria,3,Cash,11058.63,Recovered
+PAT-1402,Female,56,Ilorin,2023-03-20,2023-03-27,Emergency,Malaria,7,HMO,33708.7,Under Treatment
+PAT-1403,Female,80,Lagos,2023-05-16,2023-05-23,Pediatrics,Diabetes,7,Insurance,15476.07,Recovered
+PAT-1404,Male,59,Abuja,2023-09-10,2023-09-13,Emergency,Malaria,3,Insurance,125298.94,Referred
+PAT-1405,Female,56,Abuja,2023-11-11,2023-11-18,Maternity,Asthma,7,HMO,75463.33,Recovered
+PAT-1406,Male,38,Lagos,2023-08-10,2023-08-16,Emergency,Hypertension,6,Cash,87423.02,Referred
+PAT-1407,Female,49,Abeokuta,2023-07-15,2023-07-16,Inpatient,Hypertension,1,Insurance,149774.43,Referred
+PAT-1408,Male,23,Lagos,2023-09-02,2023-09-08,Maternity,Ulcer,6,Insurance,105429.61,Under Treatment
+PAT-1409,Female,22,Abeokuta,2023-09-16,2023-09-23,Inpatient,Asthma,7,Insurance,78028.5,Referred
+PAT-1410,Male,16,Ibadan,2023-05-08,2023-05-10,Emergency,Malaria,2,Cash,125629.16,Recovered
+PAT-1411,Male,85,Lagos,2023-01-28,2023-02-01,Outpatient,Ulcer,4,HMO,27677.78,Under Treatment
+PAT-1412,Male,10,Abeokuta,2023-05-18,2023-05-20,Pediatrics,Diabetes,2,Insurance,118318.69,Referred
+PAT-1413,Female,78,Lagos,2023-09-08,2023-09-10,Inpatient,Hypertension,2,Insurance,103968.82,Recovered
+PAT-1414,Male,71,Abeokuta,2023-04-07,2023-04-09,Emergency,Malaria,2,Insurance,56543.42,Under Treatment
+PAT-1415,Male,56,Lagos,2023-04-02,2023-04-09,Maternity,Typhoid,7,HMO,22042.26,Under Treatment
+PAT-1416,Female,29,Abuja,2023-08-08,2023-08-13,Maternity,Asthma,5,Insurance,12587.67,Recovered
+PAT-1417,Female,21,Abeokuta,2023-07-08,2023-07-15,Emergency,Ulcer,7,Cash,27653.9,Recovered
+PAT-1418,Male,69,Lagos,2023-10-07,2023-10-14,Maternity,Malaria,7,Insurance,45987.43,Referred
+PAT-1419,Male,55,Abuja,2023-02-15,2023-02-18,Pediatrics,Typhoid,3,HMO,13943.61,Recovered
+PAT-1420,Female,40,Abeokuta,2023-11-22,2023-11-22,Inpatient,Ulcer,0,Cash,6810.63,Under Treatment
+PAT-1421,Male,32,Lagos,2023-06-16,2023-06-22,Maternity,Ulcer,6,Insurance,112121.87,Recovered
+PAT-1422,Female,63,Ibadan,2023-01-09,2023-01-16,Maternity,Malaria,7,HMO,68210.25,Recovered
+PAT-1423,Male,72,Lagos,2023-09-23,2023-09-23,Emergency,Ulcer,0,Insurance,146498.82,Recovered
+PAT-1424,Male,58,Abuja,2023-08-13,2023-08-15,Maternity,Diabetes,2,Cash,105377.54,Referred
+PAT-1425,Female,50,Lagos,2023-03-05,2023-03-06,Outpatient,Asthma,1,HMO,64356.1,Under Treatment
+PAT-1426,Female,31,Abuja,2023-04-12,2023-04-14,Pediatrics,Diabetes,2,HMO,88292.19,Referred
+PAT-1427,Male,37,Ibadan,2023-05-01,2023-05-04,Maternity,Hypertension,3,Cash,17902.3,Referred
+PAT-1428,Male,59,Ilorin,2023-11-30,2023-12-02,Inpatient,Typhoid,2,HMO,11286.14,Referred
+PAT-1429,Male,46,Ilorin,2023-03-13,2023-03-18,Pediatrics,Asthma,5,Insurance,129486.95,Under Treatment
+PAT-1430,Female,28,Abuja,2023-01-06,2023-01-10,Outpatient,Typhoid,4,Insurance,69571.14,Under Treatment
+PAT-1431,Male,39,Abuja,2023-06-07,2023-06-09,Emergency,Ulcer,2,Insurance,145210.21,Recovered
+PAT-1432,Female,77,Ibadan,2023-01-10,2023-01-12,Emergency,Asthma,2,HMO,81186.18,Under Treatment
+PAT-1433,Female,2,Abuja,2023-02-03,2023-02-06,Emergency,Diabetes,3,Cash,10660.19,Recovered
+PAT-1434,Female,32,Abeokuta,2023-06-06,2023-06-12,Emergency,Diabetes,6,Insurance,5845.04,Recovered
+PAT-1435,Male,45,Abeokuta,2023-09-01,2023-09-03,Maternity,Hypertension,2,Insurance,148856.25,Under Treatment
+PAT-1436,Male,25,Abeokuta,2023-03-13,2023-03-18,Outpatient,Diabetes,5,Insurance,117420.13,Referred
+PAT-1437,Male,46,Ibadan,2023-05-23,2023-05-27,Outpatient,Hypertension,4,Cash,141600.93,Under Treatment
+PAT-1438,Male,40,Ilorin,2024-01-01,2024-01-07,Pediatrics,Ulcer,6,Cash,118648.45,Under Treatment
+PAT-1439,Male,24,Abuja,2023-05-30,2023-06-06,Inpatient,Malaria,7,HMO,128116.64,Under Treatment
+PAT-1440,Female,11,Ibadan,2023-01-31,2023-01-31,Inpatient,Typhoid,0,Insurance,108197.39,Referred
+PAT-1441,Female,29,Lagos,2023-11-12,2023-11-18,Inpatient,Typhoid,6,Insurance,18134.12,Under Treatment
+PAT-1442,Male,16,Lagos,2023-06-27,2023-06-28,Emergency,Typhoid,1,HMO,82779.08,Referred
+PAT-1443,Male,74,Lagos,2023-02-12,2023-02-18,Maternity,Malaria,6,Insurance,56368.61,Recovered
+PAT-1444,Female,79,Ilorin,2023-12-18,2023-12-25,Inpatient,Hypertension,7,Insurance,14815.13,Referred
+PAT-1445,Female,51,Ilorin,2023-05-09,2023-05-14,Maternity,Malaria,5,HMO,91802.15,Recovered
+PAT-1446,Female,45,Abuja,2023-04-08,2023-04-14,Outpatient,Typhoid,6,Cash,52746.42,Recovered
+PAT-1447,Female,18,Abeokuta,2023-06-05,2023-06-11,Maternity,Diabetes,6,Insurance,28534.47,Referred
+PAT-1448,Female,85,Abeokuta,2023-06-08,2023-06-08,Outpatient,Hypertension,0,Insurance,107418.25,Referred
+PAT-1449,Male,60,Lagos,2023-08-20,2023-08-23,Pediatrics,Asthma,3,Cash,77942.24,Referred
+PAT-1450,Male,73,Abeokuta,2023-07-12,2023-07-13,Inpatient,Asthma,1,Cash,75583.58,Referred
+PAT-1451,Male,8,Lagos,2023-07-05,2023-07-07,Outpatient,Ulcer,2,Cash,39455.47,Referred
+PAT-1452,Male,72,Lagos,2023-09-27,2023-10-03,Outpatient,Asthma,6,Insurance,141845.41,Referred
+PAT-1453,Male,71,Lagos,2023-01-30,2023-02-01,Maternity,Hypertension,2,Cash,38291.63,Under Treatment
+PAT-1454,Female,33,Abeokuta,2023-03-12,2023-03-13,Outpatient,Asthma,1,HMO,14010.2,Referred
+PAT-1455,Female,82,Abuja,2023-08-23,2023-08-23,Pediatrics,Malaria,0,Cash,119983.52,Under Treatment
+PAT-1456,Male,75,Ibadan,2023-05-31,2023-06-01,Pediatrics,Ulcer,1,Insurance,35242.16,Referred
+PAT-1457,Male,61,Abuja,2023-01-05,2023-01-08,Inpatient,Hypertension,3,Cash,46428.7,Under Treatment
+PAT-1458,Male,60,Ibadan,2023-08-27,2023-08-30,Outpatient,Asthma,3,Cash,109700.73,Referred
+PAT-1459,Male,38,Abeokuta,2023-08-19,2023-08-22,Pediatrics,Asthma,3,Cash,127348.95,Referred
+PAT-1460,Male,32,Abuja,2023-08-26,2023-08-29,Emergency,Asthma,3,Cash,76555.35,Under Treatment
+PAT-1461,Female,28,Ilorin,2023-02-26,2023-02-27,Inpatient,Ulcer,1,Cash,13944.85,Referred
+PAT-1462,Male,55,Ibadan,2023-04-01,2023-04-07,Maternity,Malaria,6,HMO,28163.91,Referred
+PAT-1463,Female,84,Ilorin,2023-04-19,2023-04-26,Inpatient,Malaria,7,Insurance,107560.76,Under Treatment
+PAT-1464,Female,56,Lagos,2023-12-09,2023-12-14,Emergency,Ulcer,5,Insurance,101937.94,Referred
+PAT-1465,Female,80,Abuja,2023-08-31,2023-09-04,Pediatrics,Asthma,4,Insurance,21119.31,Under Treatment
+PAT-1466,Female,67,Lagos,2023-08-18,2023-08-22,Inpatient,Diabetes,4,Insurance,41877.9,Recovered
+PAT-1467,Male,55,Lagos,2023-07-30,2023-07-30,Outpatient,Asthma,0,Insurance,28959.76,Referred
+PAT-1468,Female,38,Abuja,2023-07-14,2023-07-17,Outpatient,Typhoid,3,Cash,149222.11,Recovered
+PAT-1469,Female,39,Abeokuta,2023-08-09,2023-08-13,Outpatient,Ulcer,4,HMO,113048.92,Recovered
+PAT-1470,Female,67,Ibadan,2023-02-19,2023-02-21,Outpatient,Asthma,2,Cash,98751.6,Under Treatment
+PAT-1471,Female,58,Abuja,2023-01-19,2023-01-23,Maternity,Hypertension,4,HMO,35829.24,Referred
+PAT-1472,Female,37,Abeokuta,2023-05-21,2023-05-23,Outpatient,Typhoid,2,HMO,10165.7,Recovered
+PAT-1473,Male,44,Abuja,2023-07-16,2023-07-21,Outpatient,Asthma,5,Cash,7556.79,Referred
+PAT-1474,Female,54,Ibadan,2023-11-10,2023-11-10,Maternity,Typhoid,0,HMO,129484.67,Under Treatment
+PAT-1475,Male,74,Ilorin,2023-02-24,2023-02-25,Outpatient,Typhoid,1,Cash,130662.45,Under Treatment
+PAT-1476,Female,53,Lagos,2023-10-27,2023-10-27,Outpatient,Asthma,0,Insurance,73424.49,Under Treatment
+PAT-1477,Female,54,Ibadan,2023-08-10,2023-08-11,Outpatient,Asthma,1,Cash,27315.44,Under Treatment
+PAT-1478,Male,59,Abeokuta,2023-04-12,2023-04-13,Maternity,Malaria,1,Cash,120989.73,Recovered
+PAT-1479,Female,21,Ibadan,2023-04-15,2023-04-20,Inpatient,Diabetes,5,HMO,119914.33,Referred
+PAT-1480,Female,63,Abeokuta,2023-10-26,2023-10-27,Pediatrics,Typhoid,1,Cash,57791.39,Referred
+PAT-1481,Male,23,Ibadan,2023-09-26,2023-10-03,Inpatient,Ulcer,7,Cash,30696.46,Referred
+PAT-1482,Male,18,Ilorin,2023-03-18,2023-03-21,Inpatient,Ulcer,3,Insurance,136309.09,Referred
+PAT-1483,Female,51,Abeokuta,2023-10-08,2023-10-14,Maternity,Typhoid,6,HMO,104629.26,Under Treatment
+PAT-1484,Male,17,Ilorin,2023-05-24,2023-05-31,Outpatient,Ulcer,7,Cash,93449.4,Recovered
+PAT-1485,Female,20,Ibadan,2023-08-14,2023-08-17,Emergency,Asthma,3,HMO,37757.95,Recovered
+PAT-1486,Male,43,Abeokuta,2023-05-27,2023-06-03,Pediatrics,Diabetes,7,HMO,126882.8,Recovered
+PAT-1487,Male,10,Abeokuta,2023-01-01,2023-01-01,Emergency,Hypertension,0,Insurance,35216.54,Under Treatment
+PAT-1488,Male,85,Lagos,2023-06-22,2023-06-26,Pediatrics,Malaria,4,Insurance,56378.21,Under Treatment
+PAT-1489,Male,65,Ibadan,2023-08-19,2023-08-24,Inpatient,Hypertension,5,Cash,116178.21,Referred
+PAT-1490,Male,26,Ilorin,2024-01-01,2024-01-04,Maternity,Hypertension,3,Insurance,52423.42,Referred
+PAT-1491,Male,20,Ibadan,2023-05-31,2023-06-04,Emergency,Asthma,4,Insurance,115844.2,Recovered
+PAT-1492,Female,4,Ibadan,2023-11-16,2023-11-21,Inpatient,Diabetes,5,Cash,118775.17,Referred
+PAT-1493,Male,25,Abuja,2023-09-11,2023-09-18,Outpatient,Hypertension,7,HMO,127317.86,Recovered
+PAT-1494,Female,32,Ibadan,2023-12-14,2023-12-16,Outpatient,Typhoid,2,Insurance,87316.12,Referred
+PAT-1495,Male,35,Abuja,2023-11-23,2023-11-25,Inpatient,Hypertension,2,Cash,124739.6,Under Treatment
+PAT-1496,Female,39,Abeokuta,2023-10-07,2023-10-09,Outpatient,Diabetes,2,Cash,80862.89,Recovered
+PAT-1497,Male,82,Ilorin,2023-08-14,2023-08-20,Pediatrics,Hypertension,6,HMO,6115.23,Under Treatment
+PAT-1498,Male,61,Lagos,2023-12-22,2023-12-29,Pediatrics,Malaria,7,HMO,129589.75,Recovered
+PAT-1499,Male,18,Abuja,2023-09-23,2023-09-26,Pediatrics,Asthma,3,Insurance,12052.92,Recovered
